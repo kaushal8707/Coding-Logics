@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../Java-8-Framework/pom.xml" />
+        <option value="$PROJECT_DIR$/../Design-Pattern/pom.xml" />
+        <option value="$PROJECT_DIR$/../JUnit-Mockito-Demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/../Event-Driven-Saga/pom.xml" />
+        <option value="$PROJECT_DIR$/../Event-Driven-CQRS/pom.xml" />
+        <option value="$PROJECT_DIR$/../CQRS-product-command-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../CQRS-product-query-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../JUnit-Mockito-Demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/../JUnit-Mockito-Demo3/pom.xml" />
+        <option value="$PROJECT_DIR$/../productservice/pom.xml" />
+        <option value="$PROJECT_DIR$/../couponservice/pom.xml" />
+        <option value="$PROJECT_DIR$/../cqrs-design-pattern-main/product-command-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../cqrs-design-pattern-main/product-query-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-boot-mockito/spring-boot-mockito/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-mockito-example/spring-mockito-example/pom.xml" />
+        <option value="$PROJECT_DIR$/../Multi-Threading-Framework/pom.xml" />
+        <option value="$PROJECT_DIR$/../Docker-Code/devops-integration/pom.xml" />
+        <option value="$PROJECT_DIR$/../docket-temp-demp/pom.xml" />
+        <option value="$PROJECT_DIR$/../docker-app-demo/pom.xml" />
+        <option value="$USER_HOME$/Downloads/springboot-best-practices-main/springboot-best-practices-main/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../CQRS-product-command-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../CQRS-product-query-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../Event-Driven-CQRS/pom.xml" />
+        <option value="$PROJECT_DIR$/../Event-Driven-Saga/pom.xml" />
+        <option value="$PROJECT_DIR$/../docker-app-demo/pom.xml" />
+      </set>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="zulu-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
